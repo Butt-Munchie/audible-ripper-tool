@@ -2,6 +2,7 @@
 
 # This script helps facillitate this ffmpeg script
 # ffmpeg -activation_bytes 'hex code' -i 'InputAudiobook.aax' -c copy 'OutputAudiobook.m4b'
+# It loops through all audiobooks in a given directory.
 
 set -e
 
